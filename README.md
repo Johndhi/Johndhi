@@ -1,6 +1,6 @@
 # Hello 👋
 
-**My name is John.** I am new here.
+**I am John.** I am new here.
 
 <!--
 **Johndhi/Johndhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
